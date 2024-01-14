@@ -1,4 +1,4 @@
-# read_manga
+# Reader Manga Flutter
 
 A new Flutter project.
 
