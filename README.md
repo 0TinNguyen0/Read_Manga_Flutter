@@ -1,3 +1,4 @@
+![Logo GitHub] (https://github.com/0TinNguyen0/Reader_Manga_Flutter/blob/main/assets/logo_user.jpg)
 # Reader Manga Flutter
 
 A new Flutter project.
